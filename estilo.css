@@ -1,0 +1,36 @@
+	#cronometro {black
+	  font-family: 'Courier New';
+	  font-weight: bold;
+	  letter-spacing: -10px;
+	  font-size: 100px;
+	  background: purple;
+	  color: white;
+	  padding: 5px 10px 5px 10px;
+	  width: 2000px;
+	  margin: 6cm 4cm 1cm 3cm;
+	  border-radius: 20px;
+	  text-align: center;
+	}
+
+	#controles {
+	  margin: 2cm 4cm 2cm 2cm;
+	  text-align: center;
+	  margin: 10px;
+	  color: white;
+	  margin-bottom: 100px;
+	  margin-left: 60px;
+	  margin-right: 0px;
+	}
+
+	body {
+	  background: pink ;
+	}
+
+	div#cronometro {
+	  width: 1200px;
+	}
+
+	input#intervaloAlarmeMinutos {
+	  margin-left: 60px;
+	  margin-right: 60px;
+	}
